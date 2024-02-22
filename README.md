@@ -23,3 +23,11 @@ All images
 
 --files--
 All .js files
+
+--steps--
+
+1. npm install
+2. npm start
+
+to clone git repository
+ git remote add origin https://github.com/milanDevani316/my-midterm.git
